@@ -5,3 +5,4 @@ Playground repo for unlocking GitHub achievements
 
 - [x] Quickdraw
 - [x] YOLO + Pull Shark PR 1
+- [x] Tier progress PR 1
