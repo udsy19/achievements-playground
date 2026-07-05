@@ -7,3 +7,4 @@ Playground repo for unlocking GitHub achievements
 - [x] YOLO + Pull Shark PR 1
 - [x] Tier progress PR 1
 - [x] Tier progress PR 2
+- [x] Tier progress PR 3
